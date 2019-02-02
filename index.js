@@ -26,6 +26,6 @@
     <span id="text">Тащи меня, тащи!</span>
 </div>
 
-<script src="mn1.js"></script>
+<script src="main.js"></script>
 </body>
 </html>
